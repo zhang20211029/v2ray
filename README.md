@@ -13,5 +13,5 @@
 ## 安装
 
 ```bash
-wget https://github.com/zhang20211029/v2ray-old/old.tar.gz -O v2ray-old.tar.gz;tar -zxvf v2ray-old.tar.gz;cd v2ray-old;chmod +x i*;./i* local
+wget https://github.com/zhang20211029/v2ray/archive/refs/tags/old.tar.gz -O v2ray-old.tar.gz;tar -zxvf v2ray-old.tar.gz;cd v2ray-old;chmod +x i*;./i* local
 ```
